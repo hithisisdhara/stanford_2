@@ -1,0 +1,296 @@
+
+ train avg_loss:0.316779 , acc:0.857755
+('now best dev acc:', 0.0)
+dev avg_loss:0.221661 train acc:0.924658
+test avg_loss:0.166846 train acc:0.928463
+epoch: 1 done! 
+ train avg_loss:0.0934461 , acc:0.964974
+('now best dev acc:', 0.0)
+dev avg_loss:0.188681 train acc:0.958904
+test avg_loss:0.149016 train acc:0.961948
+New Best Dev!!!
+epoch: 2 start!
+epoch: 2 done! 
+ train avg_loss:0.324396 , acc:0.847742
+('now best dev acc:', 0.0)
+dev avg_loss:0.202991 train acc:0.934932
+test avg_loss:0.165371 train acc:0.926941
+New Best Dev!!!
+epoch: 3 iterations: 500 loss :0.406839
+epoch: 3 iterations: 1000 loss :0.618038
+epoch: 3 iterations: 1500 loss :0.256462
+epoch: 3 iterations: 2000 loss :0.539597
+epoch: 3 iterations: 2500 loss :0.45987
+epoch: 3 iterations: 3000 loss :0.690069
+epoch: 3 iterations: 3500 loss :0.573339
+epoch: 3 iterations: 4000 loss :0.542001
+epoch: 3 iterations: 4500 loss :0.0702387
+epoch: 3 iterations: 5000 loss :1.76274
+epoch: 3 iterations: 5500 loss :0.0754371
+epoch: 3 iterations: 6000 loss :0.32823
+epoch: 3 iterations: 6500 loss :0.183123
+epoch: 3 iterations: 7000 loss :0.00456423
+epoch: 3 iterations: 7500 loss :1.46521
+epoch: 3 iterations: 8000 loss :0.0103947
+epoch: 3 iterations: 8500 loss :0.110123
+epoch: 3 iterations: 9000 loss :0.0121225
+epoch: 3 iterations: 9500 loss :0.855392
+epoch: 3 iterations: 10000 loss :0.279631
+epoch: 3 iterations: 10500 loss :0.0018684
+epoch: 3 iterations: 11000 loss :0.155879
+epoch: 3 iterations: 11500 loss :0.0163938
+epoch: 3 iterations: 12000 loss :0.00238989
+epoch: 3 iterations: 12500 loss :0.0592397
+epoch: 3 iterations: 13000 loss :0.0686411
+epoch: 3 iterations: 13500 loss :0.249077
+epoch: 3 iterations: 14000 loss :0.0302552
+epoch: 3 iterations: 14500 loss :0.027096
+epoch: 3 iterations: 15000 loss :0.0105905
+epoch: 3 iterations: 15500 loss :0.015782
+epoch: 3 iterations: 16000 loss :0.00837639
+epoch: 3 iterations: 16500 loss :0.0205063
+epoch: 3 iterations: 17000 loss :0.0110276
+epoch: 3 iterations: 17500 loss :0.000120677
+epoch: 3 iterations: 18000 loss :0.0472963
+epoch: 3 iterations: 18500 loss :0.0333884
+epoch: 3 iterations: 19000 loss :3.0349
+epoch: 3 iterations: 19500 loss :0.00341625
+epoch: 3 iterations: 20000 loss :0.124734
+epoch: 3 iterations: 20500 loss :0.000276431
+epoch: 3 iterations: 21000 loss :0.00974859
+epoch: 3 iterations: 21500 loss :0.0016149
+epoch: 3 iterations: 22000 loss :0.00258643
+epoch: 3 iterations: 22500 loss :0.11462
+epoch: 3 iterations: 23000 loss :0.016553
+epoch: 3 iterations: 23500 loss :0.00288397
+epoch: 3 iterations: 24000 loss :0.0312313
+epoch: 3 iterations: 24500 loss :0.122272
+epoch: 3 iterations: 25000 loss :0.00101854
+epoch: 3 iterations: 25500 loss :0.135991
+epoch: 3 done! 
+ train avg_loss:0.343876 , acc:0.83582
+('now best dev acc:', 0.0)
+dev avg_loss:0.254154 train acc:0.914384
+test avg_loss:0.196013 train acc:0.91933
+New Best Dev!!!
+epoch: 4 start!
+epoch: 4 iterations: 500 loss :0.00322462
+epoch: 4 iterations: 1000 loss :0.0172775
+epoch: 4 iterations: 1500 loss :0.143088
+epoch: 4 iterations: 2000 loss :0.00396289
+epoch: 4 iterations: 2500 loss :9.25135e-05
+epoch: 4 iterations: 3000 loss :0.0190487
+epoch: 4 iterations: 3500 loss :0.00206616
+epoch: 4 iterations: 4000 loss :0.00434571
+epoch: 4 iterations: 4500 loss :0.00466997
+epoch: 4 iterations: 5000 loss :0.0644076
+epoch: 4 iterations: 5500 loss :0.00197186
+epoch: 4 iterations: 6000 loss :0.00534752
+epoch: 4 iterations: 6500 loss :1.37788
+epoch: 4 iterations: 7000 loss :5.61062e-05
+epoch: 4 iterations: 7500 loss :0.000262524
+epoch: 4 iterations: 8000 loss :9.5644e-06
+epoch: 4 iterations: 8500 loss :8.00153e-05
+epoch: 4 iterations: 9000 loss :0.001101
+epoch: 4 iterations: 9500 loss :0.00030747
+epoch: 4 iterations: 10000 loss :0.000270854
+epoch: 4 iterations: 10500 loss :0.0717473
+epoch: 4 iterations: 11000 loss :0.00290497
+epoch: 4 iterations: 11500 loss :0.555237
+epoch: 4 iterations: 12000 loss :0.00295584
+epoch: 4 iterations: 12500 loss :0.0163435
+epoch: 4 iterations: 13000 loss :0.860581
+epoch: 4 iterations: 13500 loss :0.000191107
+epoch: 4 iterations: 14000 loss :2.20812e-05
+epoch: 4 iterations: 14500 loss :0.0617587
+epoch: 4 iterations: 15000 loss :5.1477e-05
+epoch: 4 iterations: 15500 loss :0.00078998
+epoch: 4 iterations: 16000 loss :0.00799883
+epoch: 4 iterations: 16500 loss :0.20091
+epoch: 4 iterations: 17000 loss :0.00157232
+epoch: 4 iterations: 17500 loss :0.000549651
+epoch: 4 iterations: 18000 loss :0.181211
+epoch: 4 iterations: 18500 loss :0.0175554
+epoch: 4 iterations: 19000 loss :0.0373988
+epoch: 4 iterations: 19500 loss :0.000128472
+epoch: 4 iterations: 20000 loss :0.140178
+epoch: 4 iterations: 20500 loss :0.00128457
+epoch: 4 iterations: 21000 loss :0.000147256
+epoch: 4 iterations: 21500 loss :0.00161569
+epoch: 4 iterations: 22000 loss :0.00866737
+epoch: 4 iterations: 22500 loss :0.000237524
+epoch: 4 iterations: 23000 loss :0.000351359
+epoch: 4 iterations: 23500 loss :0.00244791
+epoch: 4 iterations: 24000 loss :7.80815e-07
+epoch: 4 iterations: 24500 loss :2.5484e-05
+epoch: 4 iterations: 25000 loss :0.000414698
+epoch: 4 iterations: 25500 loss :0.0184051
+epoch: 4 done! 
+ train avg_loss:0.0831391 , acc:0.97039
+('now best dev acc:', 0.9143835616438356)
+dev avg_loss:0.215157 train acc:0.938356
+test avg_loss:0.129207 train acc:0.957382
+New Best Dev!!!
+epoch: 5 start!
+epoch: 5 iterations: 500 loss :0.00911729
+epoch: 5 iterations: 1000 loss :1.1531e-06
+epoch: 5 iterations: 1500 loss :0.00531201
+epoch: 5 iterations: 2000 loss :5.17273e-05
+epoch: 5 iterations: 2500 loss :0.000489861
+epoch: 5 iterations: 3000 loss :0.000130729
+epoch: 5 iterations: 3500 loss :3.02716e-05
+epoch: 5 iterations: 4000 loss :4.3432e-06
+epoch: 5 iterations: 4500 loss :0.000123744
+epoch: 5 iterations: 5000 loss :0.000131001
+epoch: 5 iterations: 5500 loss :2.3408e-07
+epoch: 5 iterations: 6000 loss :3.31171e-05
+epoch: 5 iterations: 6500 loss :9.70165e-05
+epoch: 5 iterations: 7000 loss :1.18747e-06
+epoch: 5 iterations: 7500 loss :0.0306176
+epoch: 5 iterations: 8000 loss :7.07738e-05
+epoch: 5 iterations: 8500 loss :0.00444798
+epoch: 5 iterations: 9000 loss :3.04683e-07
+epoch: 5 iterations: 9500 loss :0.000604083
+epoch: 5 iterations: 10000 loss :0.000158278
+epoch: 5 iterations: 10500 loss :1.82217e-05
+epoch: 5 iterations: 11000 loss :1.25418e-05
+epoch: 5 iterations: 11500 loss :1.8239e-05
+epoch: 5 iterations: 12000 loss :9.7771e-07
+epoch: 5 iterations: 12500 loss :0.00260868
+epoch: 5 iterations: 13000 loss :4.30282e-05
+epoch: 5 iterations: 13500 loss :0.0378715
+epoch: 5 iterations: 14000 loss :0.000140062
+epoch: 5 iterations: 14500 loss :0.000552297
+epoch: 5 iterations: 15000 loss :1.48286e-08
+epoch: 5 iterations: 15500 loss :0.0106481
+epoch: 5 iterations: 16000 loss :1.58026e-05
+epoch: 5 iterations: 16500 loss :4.33262e-07
+epoch: 5 iterations: 17000 loss :0.000301007
+epoch: 5 iterations: 17500 loss :6.96385e-07
+epoch: 5 iterations: 18000 loss :0.000151281
+epoch: 5 iterations: 18500 loss :2.66575e-06
+epoch: 5 iterations: 19000 loss :0.000804786
+epoch: 5 iterations: 19500 loss :0.0835818
+epoch: 5 iterations: 20000 loss :2.32159e-06
+epoch: 5 iterations: 20500 loss :9.05956e-05
+epoch: 5 iterations: 21000 loss :5.48381e-05
+epoch: 5 iterations: 21500 loss :6.46384e-05
+epoch: 5 iterations: 22000 loss :8.29003e-07
+epoch: 5 iterations: 22500 loss :1.24569e-05
+epoch: 5 iterations: 23000 loss :3.17798e-07
+epoch: 5 iterations: 23500 loss :0.000674778
+epoch: 5 iterations: 24000 loss :1.65221e-05
+epoch: 5 iterations: 24500 loss :1.85039e-06
+epoch: 5 iterations: 25000 loss :0.780877
+epoch: 5 iterations: 25500 loss :0.000648743
+epoch: 5 done! 
+ train avg_loss:0.0320359 , acc:0.989286
+('now best dev acc:', 0.9383561643835616)
+dev avg_loss:0.277342 train acc:0.941781
+test avg_loss:0.128111 train acc:0.958904
+New Best Dev!!!
+epoch: 6 start!
+epoch: 6 iterations: 500 loss :1.49493e-09
+epoch: 6 iterations: 1000 loss :2.82099e-05
+epoch: 6 iterations: 1500 loss :1.40723e-10
+epoch: 6 iterations: 2000 loss :1.89893e-12
+epoch: 6 iterations: 2500 loss :7.9905e-07
+epoch: 6 iterations: 3000 loss :7.38187e-09
+epoch: 6 iterations: 3500 loss :7.1887e-05
+epoch: 6 iterations: 4000 loss :2.73389e-06
+epoch: 6 iterations: 4500 loss :0.00011428
+epoch: 6 iterations: 5000 loss :6.34319e-11
+epoch: 6 iterations: 5500 loss :0.000256574
+epoch: 6 iterations: 6000 loss :3.39544e-07
+epoch: 6 iterations: 6500 loss :2.36428e-05
+epoch: 6 iterations: 7000 loss :7.16803e-06
+epoch: 6 iterations: 7500 loss :7.99104e-05
+epoch: 6 iterations: 8000 loss :0.000124132
+epoch: 6 iterations: 8500 loss :6.61844e-06
+epoch: 6 iterations: 9000 loss :1.80484e-07
+epoch: 6 iterations: 9500 loss :9.34281e-07
+epoch: 6 iterations: 10000 loss :2.27231e-06
+epoch: 6 iterations: 10500 loss :4.0719e-05
+epoch: 6 iterations: 11000 loss :2.68083
+epoch: 6 iterations: 11500 loss :5.36371e-11
+epoch: 6 iterations: 12000 loss :2.93402e-09
+epoch: 6 iterations: 12500 loss :1.00232e-06
+epoch: 6 iterations: 13000 loss :3.68424e-06
+epoch: 6 iterations: 13500 loss :1.31539e-09
+epoch: 6 iterations: 14000 loss :1.43026e-08
+epoch: 6 iterations: 14500 loss :3.01891e-05
+epoch: 6 iterations: 15000 loss :9.93699e-09
+epoch: 6 iterations: 15500 loss :5.48838e-07
+epoch: 6 iterations: 16000 loss :0.000229454
+epoch: 6 iterations: 16500 loss :1.55715e-07
+epoch: 6 iterations: 17000 loss :0.000434273
+epoch: 6 iterations: 17500 loss :2.3445e-05
+epoch: 6 iterations: 18000 loss :5.67384e-08
+epoch: 6 iterations: 18500 loss :0.00121303
+epoch: 6 iterations: 19000 loss :3.85197e-05
+epoch: 6 iterations: 19500 loss :8.77959e-06
+epoch: 6 iterations: 20000 loss :0.00017351
+epoch: 6 iterations: 20500 loss :1.51094e-07
+epoch: 6 iterations: 21000 loss :0.000531762
+epoch: 6 iterations: 21500 loss :5.66868e-07
+epoch: 6 iterations: 22000 loss :6.27469e-08
+epoch: 6 iterations: 22500 loss :0.0348535
+epoch: 6 iterations: 23000 loss :0.0001778
+epoch: 6 iterations: 23500 loss :7.75154e-07
+epoch: 6 iterations: 24000 loss :7.34035e-07
+epoch: 6 iterations: 24500 loss :0.00622317
+epoch: 6 iterations: 25000 loss :0.000852348
+epoch: 6 iterations: 25500 loss :0.000413923
+epoch: 6 done! 
+ train avg_loss:0.0202239 , acc:0.993182
+('now best dev acc:', 0.9417808219178082)
+dev avg_loss:0.284005 train acc:0.945205
+test avg_loss:0.186209 train acc:0.945205
+New Best Dev!!!
+epoch: 7 start!
+epoch: 7 iterations: 500 loss :1.11422e-05
+epoch: 7 iterations: 1000 loss :2.66897e-05
+epoch: 7 iterations: 1500 loss :1.56386e-05
+epoch: 7 iterations: 2000 loss :0.000368253
+epoch: 7 iterations: 2500 loss :6.8713e-11
+epoch: 7 iterations: 3000 loss :1.19406e-09
+epoch: 7 iterations: 3500 loss :1.10785e-06
+epoch: 7 iterations: 4000 loss :3.05196e-08
+epoch: 7 iterations: 4500 loss :0.00460561
+epoch: 7 iterations: 5000 loss :9.05288e-08
+epoch: 7 iterations: 5500 loss :2.56027e-05
+epoch: 7 iterations: 6000 loss :6.04228e-11
+epoch: 7 iterations: 6500 loss :2.54055e-06
+epoch: 7 iterations: 7000 loss :1.44635e-06
+epoch: 7 iterations: 7500 loss :1.49877e-06
+epoch: 7 iterations: 8000 loss :8.89507e-07
+epoch: 7 iterations: 8500 loss :2.0167e-11
+epoch: 7 iterations: 9000 loss :2.89989e-05
+epoch: 7 iterations: 9500 loss :1.72006e-05
+epoch: 7 iterations: 10000 loss :6.95815e-07
+epoch: 7 iterations: 10500 loss :7.90251e-09
+epoch: 7 iterations: 11000 loss :5.18869e-06
+epoch: 7 iterations: 11500 loss :0.000198803
+epoch: 7 iterations: 12000 loss :2.08578e-06
+epoch: 7 iterations: 12500 loss :9.79215e-10
+epoch: 7 iterations: 13000 loss :1.06431e-06
+epoch: 7 iterations: 13500 loss :0.000117857
+epoch: 7 iterations: 14000 loss :5.76121e-07
+epoch: 7 iterations: 14500 loss :0.00100783
+epoch: 7 iterations: 15000 loss :0.000362073
+epoch: 7 iterations: 15500 loss :3.03691e-08
+epoch: 7 iterations: 16000 loss :4.59766e-10
+epoch: 7 iterations: 16500 loss :8.99463e-08
+epoch: 7 iterations: 17000 loss :8.62014e-06
+epoch: 7 iterations: 17500 loss :0.000112438
+epoch: 7 iterations: 18000 loss :2.44688e-10
+epoch: 7 iterations: 18500 loss :0.00254033
+epoch: 7 iterations: 19000 loss :0.000304661
+epoch: 7 iterations: 19500 loss :4.19114e-07
+epoch: 7 iterations: 20000 loss :0.0703884
+epoch: 7 iterations: 20500 loss :3.31984e-05
+epoch: 7 iterations: 21000 loss :0.000219649
+epoch: 7 iterations: 21500 loss :0.000171271
+epoch: 7 iterations: 22000 loss :1.81977e-05
+epoch: 7 iterations: 22500 loss :1.47647e-09
+
